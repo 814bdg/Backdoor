@@ -26,6 +26,6 @@
       location = "group:FAQ.md">
    </FileRef>
    <FileRef
-      location = "container:backdoor.xcodeproj">
+      location = "container:feather.xcodeproj">
    </FileRef>
 </Workspace>
